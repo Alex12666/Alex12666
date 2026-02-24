@@ -51,16 +51,23 @@
 
 ---
 
-## 🏆 HALL OF FAME
+---
+
+## 🏆 HALL OF FAME (GLÓRIAS)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alex12666&theme=radical&no-frame=false&column=3&margin-w=20&border=00ff00" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alex12666&theme=radical&no-frame=true&column=3&margin-w=15" alt="Troféus" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex12666&layout=compact&theme=radical&hide_border=false&border_color=8833ff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex12666&layout=compact&theme=radical&hide_border=true" alt="Linguagens" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex12666&show_icons=true&theme=radical&hide_border=true&count_private=true" width="400" />
+</p>
+
+---
 ---
 
 <p align="center">
