@@ -1,67 +1,47 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Alexandre%20Maia%20Jesus&fontSize=70" />
-</p>
+# 🕹️ Alexandre's DevOps Quest: Level 1
 
-# 🚀 DevOps & Automation Developer
-
-Estudante de DevOps focado em transformar infraestrutura em código. Atualmente realizando +20 labs práticos de Cloud, IA e Automação.
-
-## 🛠️ Tecnologias (Stack Profissional)
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=terraform" width="50" height="50" alt="Terraform" />
-      <br>Terraform
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ansible" width="50" height="50" alt="Ansible" />
-      <br>Ansible
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="50" height="50" alt="CI/CD" />
-      <br>Actions
-    </td>
-  </tr>
-</table>
+**Role:** Junior DevOps / Automation Specialist  
+**HP:** [██████████] 100%  
+**Mana (IA):** [████████░░] 80%
 
 ---
 
-## 🚀 O que estou construindo:
-- ☁️ **Cloud:** Ambientes escaláveis na AWS e Azure.
-- 📦 **Containers:** Orquestração avançada com Kubernetes e Helm.
-- 🤖 **IA:** Automação de tarefas DevOps com Gemini e ChatGPT.
-- 🛡️ **Segurança:** Infraestrutura como código (IaC) segura e otimizada.
+## 📊 Skills & Level Progress
+
+**Python (Backend & Automation)**
+`LEVEL 15` [██████░░░░] 60% XP
+
+**Docker (Containerization & Multi-stage)**
+`LEVEL 20` [████████░░] 80% XP
+
+**Linux / Bash Scripting**
+`LEVEL 18` [███████░░░] 70% XP
+
+**AWS / Azure (Cloud Infrastructure)**
+`LEVEL 10` [████░░░░░░] 40% XP
+
+**Terraform / Ansible (IaC)**
+`LEVEL 08` [███░░░░░░░] 30% XP
 
 ---
 
-### 📫 Vamos nos conectar:
-<p align="left">
-<a href="https://www.linkedin.com/in/alexandre-maia-jesus-45a6081b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
+## 🛡️ Inventory (Tech Stack)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex12666&show_icons=true&theme=radical" />
-</p>
+| Technology | Rarity | Type |
+| :--- | :--- | :--- |
+| **Docker** | `Rare` | Container Engine |
+| **Python** | `Epic` | Scripting Weapon |
+| **GitHub Actions** | `Rare` | Automation Scroll |
+| **Gemini/ChatGPT** | `Legendary` | Wisdom Artifact |
+
+---
+
+## 📜 Quest Log (Atividades Recentes)
+- [x] **Mastered:** Docker Multi-stage Builds (Redução de Imagem).
+- [x] **Unlocked:** Infraestrutura Segura (Node.js + Docker).
+- [ ] **Next Boss:** Provisionar Cluster Kubernetes via Terraform.
+
+---
+
+### 🏆 Achievements
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex12666&show_icons=true&theme=radical&hide_border=true)
