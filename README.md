@@ -55,19 +55,23 @@
 
 ---
 
-## 🏆 HALL OF FAME (GLÓRIAS)
+---
+
+## 🏆 HALL OF FAME (CONQUISTAS)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alex12666&theme=radical&no-frame=true&column=3" />
+  <img src="https://img.shields.io/badge/CONQUISTA-PRIMEIRO_COMMIT-8833ff?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/TITULO-MAGO_APRENDIZ-green?style=for-the-badge&logo=wizarding-world" />
+  <img src="https://img.shields.io/badge/EXP-CRESCENDO-orange?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex12666&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/badge/TOP_LANG-PYTHON-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/TOP_LANG-BASH-white?style=flat-square&logo=gnubash" />
+  <img src="https://img.shields.io/badge/TOP_LANG-DOCKER-blue?style=flat-square&logo=docker" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alex12666&show_icons=true&theme=radical&hide_border=true" />
-</p>
+> ⚠️ *Os pergaminhos de estatísticas automáticas estão sendo restaurados pela mana do servidor. Enquanto isso, minhas glórias manuais estão listadas acima!*
 
 ---
 
