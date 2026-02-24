@@ -37,12 +37,22 @@
 
 ---
 
+---
+
 ## 🏆 GLÓRIAS E ESTATÍSTICAS
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex12666&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alex12666&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Estatisticas do Mago" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex12666&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
+
+### 🪄 COMANDOS DO GRIMÓRIO (Pixel Style)
+`System.Status: ONLINE`  
+`Cloud.Mage: Alex12666`  
+`Mana.Power: [####################] 100%`
 
 ### 📱 Conecte-se com o Mago:
 <a href="https://www.linkedin.com/in/alexandre-maia-jesus-45a6081b5" target="_blank">
