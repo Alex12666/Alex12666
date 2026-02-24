@@ -26,9 +26,10 @@
   <b>GIT / GRIMÓRIO</b> [<code>██████████████▒▒▒▒▒▒</code>] 80%<br>
   <b>DOCKER / GOLEMS</b> [<code>████████████▒▒▒▒▒▒▒▒</code>] 70%<br>
   <b>PYTHON / ALQUIMIA</b> [<code>████████▒▒▒▒▒▒▒▒▒▒▒▒</code>] 60%<br>
-  <b>CLOUD / PORTAIS</b> [<code>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</code>] 40%
+  <b>CLOUD / PORTAIS</b> [<code>██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒</code>] 40%<br>
+  <b>TERRAFORM / ARQUITETURA</b> [<code>████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</code>] 20%<br>
+  <b>KUBERNETES / FORTALEZAS</b> [<code>██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</code>] 10%
 </p>
-
 ---
 
 ## 🛡️ ARMORY (EQUIPAMENTOS)
