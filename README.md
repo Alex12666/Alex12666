@@ -1,47 +1,37 @@
-# 🕹️ Alexandre's DevOps Quest: Level 1
 
-**Role:** Junior DevOps / Automation Specialist  
-**HP:** [██████████] 100%  
-**Mana (IA):** [████████░░] 80%
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Alex12666%20-%20DevOps%20Quest&fontSize=50&fontAlignY=35" />
+</p>
 
----
-
-## 📊 Skills & Level Progress
-
-**Python (Backend & Automation)**
-`LEVEL 15` [██████░░░░] 60% XP
-
-**Docker (Containerization & Multi-stage)**
-`LEVEL 20` [████████░░] 80% XP
-
-**Linux / Bash Scripting**
-`LEVEL 18` [███████░░░] 70% XP
-
-**AWS / Azure (Cloud Infrastructure)**
-`LEVEL 10` [████░░░░░░] 40% XP
-
-**Terraform / Ansible (IaC)**
-`LEVEL 08` [███░░░░░░░] 30% XP
+# 🕹️ Alex12666 - Devops Quest
+**Classe:** Cloud Knight  
+**Level:** 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [❤️️❤️️❤️️❤️️❤️️❤️️❤️️❤️️❤️️❤️️🤍🤍🤍🤍🤍]  
+**HP: Mana (Scripts)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 70/100
 
 ---
 
-## 🛡️ Inventory (Tech Stack)
+## ⚔️ HAB Skill Tree (Progresso)
 
-| Technology | Rarity | Type |
+| Skill | Level | Mastery |
 | :--- | :--- | :--- |
-| **Docker** | `Rare` | Container Engine |
-| **Python** | `Epic` | Scripting Weapon |
-| **GitHub Actions** | `Rare` | Automation Scroll |
-| **Gemini/ChatGPT** | `Legendary` | Wisdom Artifact |
+| <img src="https://skillicons.dev/icons?i=python" width="20"> **Python (Automação)** | `LVL 15` | ![60%](https://geps.dev/progress/60?dangerColor=800080&accColor=00ff00) |
+| <img src="https://skillicons.dev/icons?i=docker" width="20"> **Docker / Containers** | `LVL 20` | ![70%](https://geps.dev/progress/70?dangerColor=800080&accColor=00ff00) |
+| <img src="https://skillicons.dev/icons?i=linux" width="20"> **Linux / Bash** | `LVL 18` | ![70%](https://geps.dev/progress/70?dangerColor=800080&accColor=00ff00) |
+| <img src="https://skillicons.dev/icons?i=aws" width="20"> **AWS / Azure** | `LVL 10` | ![40%](https://geps.dev/progress/40?dangerColor=800080&accColor=00ff00) |
+| <img src="https://skillicons.dev/icons?i=terraform" width="20"> **Terraform / Ansible** | `LVL 08` | ![30%](https://geps.dev/progress/30?dangerColor=800080&accColor=00ff00) |
+| <img src="https://skillicons.dev/icons?i=kubernetes" width="20"> **Kubernetes** | `LVL 05` | ![15%](https://geps.dev/progress/15?dangerColor=800080&accColor=00ff00) |
 
 ---
 
-## 📜 Quest Log (Atividades Recentes)
-- [x] **Mastered:** Docker Multi-stage Builds (Redução de Imagem).
-- [x] **Unlocked:** Infraestrutura Segura (Node.js + Docker).
-- [ ] **Next Boss:** Provisionar Cluster Kubernetes via Terraform.
+## 🎒 HAIL Inventory (Ferramentas Mágicas)
+
+| Item | Type | Effect |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=terraform" width="20"> **IaC** | `Terraform` | Provisionar Clusters no Azure |
+| <img src="https://skillicons.dev/icons?i=githubactions" width="20"> **Actions** | `CI/CD` | Deploy Automático & Testes |
+| <img src="https://skillicons.dev/icons?i=datadog" width="20"> **Datadog** | `Monitor` | Dashboards & Alertas Visuais |
 
 ---
 
-### 🏆 Achievements
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alex12666&show_icons=true&theme=radical&hide_border=true)
+## 📜 Quest Log (Desafios)
+- [x] **Quest 1:** Criar Docker
