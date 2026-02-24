@@ -4,7 +4,7 @@
 
 # 🚀 DevOps & Automation Developer
 
-Estudante de DevOps focado em transformar infraestrutura em código. Atualmente realizando +100 labs práticos de Cloud, IA e Automação.
+Estudante de DevOps focado em transformar infraestrutura em código. Atualmente realizando +20 labs práticos de Cloud, IA e Automação.
 
 ## 🛠️ Tecnologias (Stack Profissional)
 
