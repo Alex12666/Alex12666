@@ -1,14 +1,13 @@
 # Alexandre Maia Jesus
-### **DevOps Engineer | Cloud & Infrastructure Automation**
+### **DevOps Engineer em Especialização | Cloud & Infrastructure Automation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-maia-jesus-45a6081b5)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alex12666)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 ---
 
 ### 📑 Sobre mim
-Analista de Sistemas e Pós-graduando em **DevOps**. Especialista em automação de processos e infraestrutura como código (IaC). Minha trajetória é focada na resolução de problemas reais através de **Shell Scripting**, **Python** e **Containerização**, garantindo que o ciclo de vida do software seja ágil, seguro e escalável.
+Graduado em Análise e Desenvolvimento de Sistemas e **Pós-graduando em DevOps**. Atualmente em especialização técnica focada em automação de processos e infraestrutura como código (IaC). Minha trajetória é construída através da resolução de problemas reais com **Shell Scripting**, **Python** e **Containerização**, buscando eficiência e segurança no ciclo de vida do software.
 
 ---
 
@@ -30,31 +29,30 @@ Analista de Sistemas e Pós-graduando em **DevOps**. Especialista em automação
   <br>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </p>
 
 ---
 
-### 🚀 Projetos de Impacto (Infraestrutura)
+### 🚀 Projetos em Foco (Laboratórios de Infraestrutura)
 
 #### 🛡️ [Monitoramento de Saúde - Bash](https://github.com/Alex12666/bash-health-check)
-* **Problema:** Necessidade de monitorar integridade de servidores sem ferramentas pagas.
-* **Solução:** Script Bash para monitoramento automático de serviços (Nginx), uso de disco e permissões.
-* **Resultado:** Redução do tempo de resposta a incidentes críticos em ambientes Linux.
+* **Objetivo:** Desenvolver rotinas de monitoramento para servidores Linux.
+* **Solução:** Script Bash para verificação de serviços (Nginx), uso de disco e permissões.
+* **Resultado:** Implementação de vigilância automatizada e redução de logs manuais.
 
 #### 🐳 [Otimização de Imagens Node.js](https://github.com/Alex12666/node-docker-multistage-lab)
-* **Problema:** Imagens Docker pesadas e com vulnerabilidades de segurança.
-* **Solução:** Implementação de **Multi-stage Build** utilizando Alpine Linux.
-* **Resultado:** Redução drástica da pegada da imagem e isolamento de dependências de build.
+* **Objetivo:** Aplicar boas práticas de containerização para redução de custo e segurança.
+* **Solução:** Docker Multi-stage Build utilizando Alpine Linux.
+* **Resultado:** Imagens otimizadas e isolamento total entre ambiente de build e runtime.
 
 #### ⚙️ [Automação de Deploy Nginx](https://github.com/Alex12666/nginx-automated-deploy)
-* **Problema:** Erro humano e lentidão em deploys manuais de servidores web.
-* **Solução:** Automação completa de atualização, instalação e configuração de serviços via Systemd.
-* **Resultado:** Padronização da infraestrutura e deploy em segundos.
+* **Objetivo:** Padronizar o provisionamento de servidores web em instâncias cloud.
+* **Solução:** Automação via Shell Script (Systemd, Pacotes e Configurações).
+* **Resultado:** Deploy rápido, consistente e livre de erros manuais.
 
 ---
 
-### 📈 Métricas & Atividades
+### 📈 Métricas de Evolução
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex12666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -63,11 +61,6 @@ Analista de Sistemas e Pós-graduando em **DevOps**. Especialista em automação
 
 ---
 
-### 🎯 Objetivos de Carreira
-Atualmente focado em aprofundar conhecimentos em **Observabilidade (Prometheus/Grafana)** e **Orquestração de Containers (Kubernetes)** para ambientes de alta disponibilidade.
-
----
-
 <p align="center">
-  <em>"Infraestrutura não deve ser manual, deve ser código."</em>
+  <em>"Buscando a excelência na jornada DevOps através da prática constante."</em>
 </p>
